@@ -1,0 +1,22 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 10px;
+    grid-auto-rows: minmax(100px, auto);
+    background-color: #888;
+}
+
+.search {
+
+}
+.buttons {}
+.btn {}
+.text {}
+.display {}
+.track {}
+.controls {}
